@@ -1,0 +1,81 @@
+fileFormatVersion: 2
+guid: b787a10adc04ac8468767d4b4028b2da
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: "all_0000_\u4E71\u6597\u4EBA\u751F_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 143
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: "all_0000_\u4E71\u6597\u4EBA\u751F_1"
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 0
+        width: 139
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: "all_0000_\u4E71\u6597\u4EBA\u751F_2"
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1
+        width: 145
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: "all_0000_\u4E71\u6597\u4EBA\u751F_3"
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 5
+        width: 141
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 

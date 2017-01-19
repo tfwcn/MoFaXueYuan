@@ -1,0 +1,121 @@
+fileFormatVersion: 2
+guid: 2df5b3a10fa5cd647be8448fa0a6a3d9
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: mulu
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 89
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mulu_bg
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 304
+        width: 234
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: beibao
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 247
+        width: 88
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: btn_bg
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 234
+        width: 234
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: renwu
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 167
+        width: 88
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: select
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 161
+        width: 143
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: chongwu
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 82
+        width: 88
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: exit
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 85
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+  spritePackingTag: 
+  userData: 
